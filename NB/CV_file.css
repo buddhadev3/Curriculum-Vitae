@@ -1,0 +1,87 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     margin: 15px 30px;
+     front: size 1px;
+     padding: 8px;
+}
+p[class="a"]{
+    color: rgb(255, 136, 0);
+}
+b[class="main_heading"]{
+    color:black;
+    text-shadow: 4px 3px 2px,
+    7px 6px 5px yellow;
+    text-decoration: underline;
+    text-align:center;
+    text-transform: uppercase;
+}
+p[class="1"]{
+    color: white;
+}
+h2#two{
+    color: black;
+    text-decoration: underline;
+}
+b[class="2"]{
+    color: white;
+    text-decoration: underline;
+    background-color: black;
+    padding: 5px;
+}
+b[class="3"]{
+    color: whitesmoke;
+    text-decoration: underline;
+    background-color: black;
+    padding: 5px;
+}
+p#three{
+    color: black;
+    text-decoration: underline;
+}
+h4[class="4"]{
+    color: whitesmoke;
+}
+b#four{
+    color: black;
+    text-decoration: underline;
+}
+b#five{
+    color: black;
+    text-decoration: underline;
+}
+b#six{
+    color: black;
+    text-decoration: underline;
+}
+b#seven{
+    color: black;
+    text-decoration: underline;
+}
+p[class="5"]{
+    color:white;
+}
+.background{
+    background-image: url("img/img2.png");
+    background-repeat: no-repeat;
+    background-size: 4000px;
+    background-position: bottom;
+    background-attachment: scroll;
+    height: 1800px;
+    width: 1800px;
+}
+p#zero{
+    color: black;
+    text-decoration: underline;
+    text-align: left;
+}
+b#eight{
+    color: black;
+    text-decoration: underline;
+    text-align: right;
+}
+
+

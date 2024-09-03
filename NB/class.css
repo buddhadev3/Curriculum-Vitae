@@ -1,0 +1,8 @@
+body h1+p .special{
+    color: yellow;
+    background-color: black;
+    padding: 5px;
+}
+h1[class="1"]{
+    text-align: center;
+}
